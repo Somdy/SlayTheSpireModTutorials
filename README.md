@@ -18,7 +18,6 @@
 * [工具](#工具)
 * [mod样板](mod样板)
 * [动画](#动画)
-* [和尖塔无关但你也许需要](#和尖塔无关但你也许需要)
 
 ## 网站
 * [ModTheSpire Wiki](https://github.com/kiooeht/ModTheSpire/wiki)<br>
@@ -40,22 +39,15 @@ Wiki上写了一些很实用的小工具，例如自动注册所有卡牌（Auto
 把图片裁剪成尖塔卡图需要的形状和尺寸。<br>
 我并没有用过这个，群里有群友自己制作的另一个相同功能的工具。
 
-* [开发工具打包（提取码：4wvx）](https://pan.baidu.com/s/11q6e924HvwyfrsdL_ottuw?pwd=4wvx)<br>
-打包了一些有用的开发工具，例如idea社区版、jdk等。同时也在群里提供。
-
 ## mod样板
 * [战神徽章mod](https://github.com/Rita-Bernstein/Warlord-Emblem)<br>
 ~~Rita推荐，必属精品~~<br>
 比较标准化的一个mod范例。
 
 ## 动画
+* [龙骨](https://dragonbones.github.io/cn/index.html)<br>
+可以导出spine动画的软件，一般使用这个足够，可以自己寻找可用版本。
+
 *制作动画需要一些基础，但其实大多数mod只需要一张图就够了。*
 * [Spine](http://zh.esotericsoftware.com/)<br>
-尖塔使用的2D动画软件，价格略高。
-
-* [龙骨](https://dragonbones.github.io/cn/index.html)<br>
-可以导出spine动画的软件，可以来群里寻找可用版本。
-
-## 和尖塔无关但你也许需要
-* [SourceGraph](https://sourcegraph.com/search)<br>
-一个可以快速浏览Github储存库的网站（有Chrome扩展程序，可以在Github页面点击进入相应网页），可以在Github抽风时使用。
+尖塔使用的2D动画软件。
